@@ -1,0 +1,22 @@
+Tiến sĩ người Việt dùng trí tuệ nhân tạo lập ‘bệnh án’ cho cây trồng
+Các chỉ số "sức khỏe" của cây có thể đo, đếm để điều chỉnh dinh dưỡng và kiểm soát dịch bệnh.
+Đo tín hiệu của cây trồng là công việc TS Nguyễn Kỳ Tài, Đại học Southern Queensland (Australia) đang cùng với các đồng nghiệp thực hiện nhiều năm nay. Ông Tài bảo, cây cối cũng giống như cơ thể con người. Nó có ngôn ngữ riêng để thể hiện và nhiệm vụ của khoa học là đọc được mong muốn của cây qua từng chỉ số.
+Để đo được, ông cùng nhóm nghiên cứu đã ứng dụng mô hình trí tuệ nhân tạo (AI) để mô phỏng và tính toán tối ưu lượng nước và phân bón sử dụng để đạt được năng suất cao nhất trong điều kiện khí hậu thay đổi.
+Thông tin đầu vào thu từ những cảm biến đặt trên các cánh đồng để đo nhiệt độ, độ ẩm của đất, không khí và sự phát triển của cây trồng.
+Ngoài ra, video và hình ảnh của các cánh đồng được chụp bằng ảnh vệ tinh và máy bay không người lái, sử dụng để xây dựng mô phỏng.
+Các lớp dữ liệu này được AI phân tích và cung cấp kết quả để điều chỉnh chính xác các ứng dụng tưới tiêu, bón phân và kiểm soát dịch bệnh cho cây trồng.
+Cần nhà nước đầu tư và cung cấp dịch vụ
+Nhiều quốc gia trên thế giới đã ứng dụng AI vào nông nghiệp như robot thu hoạch, tưới tiêu, phun thuốc để tăng năng suất, giảm thất thoát sau thu hoạch. Ở Việt Nam các ứng dụng mới chỉ thông qua những mô hình nhỏ lẻ do doanh nghiệp đầu tư mà chưa có một hệ thống tổng quát.
+Ông Tài cho biết, người dân sẽ không đủ năng lực đầu tư bởi có những thiết bị lên tới 60.000 USD và bản thân họ cũng không biết cách sử dụng. Để người dân được hưởng thụ thành tựu từ khoa học, ông Tài cho rằng Nhà nước nên đầu tư ban đầu và cung cấp các dịch vụ thông qua các viện nghiên cứu.
+Tức là khi có kết quả nghiên cứu, cơ quan này có trách nhiệm xây dựng cơ sở dữ liệu, bản đồ hóa thông tin và cập nhật trên trang web. Tùy từng mức độ thông tin sẽ có các dịch vụ sau đó. Với những thông tin căn bản như ba ngày nữa có mưa hay không, lượng mưa bao nhiêu, độ ẩm thay đổi ra sao... mọi người có thể truy cập miễn phí.
+Còn những hợp tác xã, doanh nghiệp đầu tư lớn cân đối được chi phí và lợi nhuận, họ có thể đăng ký gói cao hơn. Ví dụ họ có thể yêu cầu đặt các cảm biến riêng để có thông tin chính xác cho khu vực trồng của họ.
+Nếu muốn yêu cầu cao hơn nữa, người dùng có thể yêu cầu đặt camera, thậm chí có thể thuê nhóm chuyên gia một tháng đến kiếm tra ruộng của họ một lần.
+Ông Tài cho rằng, khi nhà nước đầu tư hệ thống ban đầu, các chuyên gia sau đó chỉ cần mang thiết bị đến scan trong một buổi về xử lý. Người nông dân sau đó truy cập vào trang web biết được dữ liệu của họ và điều chỉnh. Cách này được Australia sử dụng rất hiệu quả vì họ thực sự mong muốn phát triển một nền nông nghiệp thông minh dựa trên AI.
+Mới đây Đại học Cần Thơ, Ban quản lý Khu nông nghiệp công nghệ cao TPHCM đã làm việc với TS Tài để chuẩn bị cho các dự án ứng dụng công nghệ cao trong nông nghiệp.
+TS Nguyễn Kỳ Tài cho biết, các công nghệ đã được nghiên cứu thành công ở nước ngoài nên việc ứng dụng vào Việt Nam sẽ không quá đắt đỏ. Ông cũng mong muốn đưa những kiến thức có được đóng góp cho quê hương nên đang đàm phán với chi phí thấp nhất. Hiện nhóm chuyên gia giỏi của Australia cũng sẵn sàng tham gia cùng ông trong các dự án này.
+Tuy nhiên ông Tài vẫn e ngại từ ý tưởng đến dự án và đưa kết quả đến người dùng là một chặng đường dài và có rất nhiều khó khăn cần sự kiên nhẫn để thực hiện.
+Ông "bác sĩ" làm trái nghề
+Học chuyên ngành điện tử viễn thông ở Việt Nam nhưng TS Tài nhận được học bổng sang Australia làm về đánh giá độ hôn mê của bệnh nhân trong phòng mổ bằng tín hiệu điện não đồ.
+Ông kể, nhiều người từng thắc mắc lĩnh vực này không liên quan gì đến điện tử viễn thông nhưng ông cho rằng bản chất đều là bắt tín hiệu. Thời gian học ở đây, ông được các chuyên gia Australia mời làm các dự án nông nghiệp. Thay vì bắt tín hiệu ở cơ thể người thì các thông số đầu vào là từ cây trồng. Công việc thú vị khiến TS Tài say mê tìm hiểu.
+“Khi xây dựng bệnh án để điều trị cho bệnh nhân bác sĩ phải thu thập thông tin ban đầu từ huyết áp, nhịp tim, nhiệt độ cơ thể đến tiền sử người bệnh. Với cây trồng cũng làm được như vậy vì khi cây gặp bệnh cũng cần dựa vào những thông tin trước đó mới chẩn đoán đúng và có phương án điều chỉnh phù hợp", ông Tài nói.
+Cũng nhờ ứng dụng công nghệ, từ chỗ đất đai có thể canh tác chỉ chiếm 1% tổng diện tích lục địa, lao động ít, tình trạng khô hạn diễn ra thường xuyên, Australia vẫn có sản phẩm nông nghiệp xuất khẩu đi khắp thế giới. Tính trung bình một nông dân Australia có thể nuôi 190 người.

@@ -1,0 +1,26 @@
+Bốn câu đố thử tài suy luận của bạn
+Những câu đố với nhiều chi tiết buộc bạn phải tư duy logic, móc nối dữ kiện để tìm ra câu trả lời.
+Câu 1:
+Ann và Mary đi dạo trong một khu rừng nhiều cây và bụi rậm. Đột nhiên, trời mưa lớn, hai cô gái nhìn thấy một căn nhà bỏ hoang và quyết định vào đó trú ẩn. Khi trời ngừng mưa, Ann và Mary rời khỏi ngôi nhà. Cả hai đều không bị ướt nhưng rất đói. Vì vậy, họ đã đi theo những hướng khác nhau để tìm trái cây.
+Ann tìm thấy một cây táo. Khi hái và ăn trước một quả, cô lập tức biến thành một cái cây. 15 phút sau, Mary đến đó và cô nghe thấy tiếng nói vọng lại "Bạn của cô đã biến thành một cái cây, cô chỉ cần tìm đúng cái cây đó, bạn của cô sẽ trở lại bình thường. Cô chỉ có một cơ hội. Nếu tìm sai, bạn của cô sẽ là cái cây mãi mãi".
+Hỏi Mary có thể tìm ra cái cây để đưa bạn cô ấy trở lại bằng cách nào?
+>>Xem đáp án
+Câu 2:
+Có một đám cỏ ma thuật mọc trên cánh đồng. Đám cỏ này có thể nhân đôi số lượng mỗi ngày.
+Ngày đầu tiên, cả cánh đống chỉ có một đám cỏ, ngày thứ hai sẽ có hai đám và cứ vậy. Phải mất 10 ngày để cỏ che phủ toàn bộ cánh đồng.
+Hỏi sẽ mất bao lâu để cỏ che phủ nửa cánh đồng?
+>>Xem đáp án
+Câu 3:
+Vua ở một vương quốc xa xôi không cho phép bất cứ ai rời khỏi vương quốc của mình và không một người nước ngoài nào được phép vào đó. Mệnh lệnh của Hoàng gia là bất kỳ ai ra khỏi vương quốc đều bị xử lý. Và chỉ có một cây cầu kết nối vương quốc với thế giới bên ngoài.
+Để nghỉ ngơi, người bảo vệ cổng thành của vương quốc vào trong túp lều cạnh đó chợp mắt 5 phút rồi lại quay ra canh gác. Phải mất 8 phút để vượt qua cây cầu. Có một phụ nữ đã trốn ra được khỏi vương quốc. Hỏi cô ta đã làm thế nào?
+>>Xem đáp án
+Câu 4:
+Thám tử đang truy đuổi tên tội phạm thì thấy hắn chạy vào một ngôi nhà giữa rừng. Đuổi theo tới nơi, thám tử thấy chủ nhân ngôi nhà đứng trước cửa và ông được mời vào trong (căn nhà trong ảnh).
+Nhìn quanh nhà một lượt, viên thám từ hỏi: "Có ai đến đây không"?
+Chủ nhà trả lời: "Không và cũng không ai rời khỏi nhà cả".
+Thám tử lại hỏi "Các thành viên khác trong gia đình đâu rồi"?
+Chủ nhà đáp: "Tôi chỉ ở một mình".
+Thám từ nói cảm ơn và xin một điếu thuốc nhưng người chủ nhà nói rằng anh ta không hút thuốc.
+Ngay lập tức, thám tử kết luận "Tôi có ba bằng chứng chứng minh anh nói dối".
+Hỏi những bằng chứng đó là gì?
+>>Xem đáp án

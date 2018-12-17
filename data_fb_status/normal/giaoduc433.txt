@@ -1,0 +1,4 @@
+Thử sức với bài toán đếm số đường đi qua 5 ô
+Có bao nhiêu con đường, bắt đầu từ một ô bất kỳ và đi qua tất cả các ô, mỗi ô đúng một lần?
+Hình vuông được chia thành 5 ô như hình vẽ. Có bao nhiêu con đường, bắt đầu từ một ô bất kỳ và đi qua tất cả các ô, mỗi ô đúng một lần?
+Chú ý, từ một ô bất kỳ chỉ có thể di chuyển sang ô có kề cạnh với nó. Ví dụ, AEDCB là một đường đi hợp lệ.

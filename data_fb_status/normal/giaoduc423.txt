@@ -1,0 +1,10 @@
+Đáp án bài toán đếm số đường đi qua 5 ô
+16, 32 và 48 là đáp án khác nhau của bạn đọc cho câu hỏi "có bao nhiêu con đường, bắt đầu từ một ô bất kỳ và đi qua tất cả ô".
+Câu hỏi:
+Hình vuông được chia thành 5 ô như hình vẽ. Có bao nhiêu con đường, bắt đầu từ một ô bất kỳ và đi qua tất cả các ô, mỗi ô đúng một lần?
+Chú ý, từ một ô bất kỳ chỉ có thể di chuyển sang ô có kề cạnh với nó. Ví dụ, AEDCB là một đường đi hợp lệ.
+Ta đếm số đường đi như vậy và bắt đầu từ A. Từ  A ta có thể đến E hoặc B, hoặc D, trong đó B và D có vai trò như nhau. Nếu đến B thì sau đó ta có 4 cách đi là ECD, EDC, CED, CDE là 4 cách.
+Tương tự nếu đến D  ta cũng có 4 cách. Nếu đến E thì sau đó ta có 2 cách đi là BCD hoặc DCB. Như vậy nếu bắt đầu từ A ta có 10 cách đi. Rõ ràng B, C, D cũng có vai trò như A nên số đường đi bắt đầu từ B,C, D tương ứng cũng bằng 10.
+Cuối cùng, ta đếm số đường đi bắt đầu từ E. Ô kế tiếp có thể là A, B, C, D. Giả sử ô kế tiếp là A thì sau đó ta chỉ có 2 cách đi là BCD hoặc DCB. Như vậy ta có 4 x 2 = 8 đường đi trong trường hợp này.
+Vậy đáp số bài toán là 4 x 10 + 8 = 48.
+TS Trần Nam Dũng

@@ -1,0 +1,7 @@
+Bài toán đếm số tam giác bằng nguyên lý bắt tay
+Bạn hãy thử tìm số tam giác có thể tạo thành từ các điểm cho sẵn trên hai đường thẳng song song.
+Đếm số tam giác là dạng toán thường gặp nhất ở bậc tiểu học của mọi quốc gia và xuất hiện nhiều trong các kỳ thi Olympic Toán quốc tế. Có thể đếm số tam giác bằng cách thủ công, nhưng cách hay nhất là đếm bằng nguyên lý bắt tay trước khi mở rộng cách đếm bằng phương pháp tổ hợp của bậc học THCS.
+Dạng toán đếm tam giác dưới đây được gặp khá nhiều trong các kỳ thi Toán quốc tế, tiêu biểu là thi vòng 1 của APMOPS 2002, APMOPS 2005, APMOPS 2011, APMOPS 2014. Hãy cùng giải bài toán số 9 vòng 1 của kỳ thi APMOPS 2005.
+Topic 4: The handshake principle
+Problem:Six different points are marked on each of two parallel lines. Find the number of different triangles which can be formed using 3 of these 12 points.
+Dịch đề:Cho 2 đường thẳng song song, trên mỗi đường thẳng đánh dấu 6 điểm phân biệt. Tìm số tam giác có thể tạo thành bằng cách nối 3 trong số 12 điểm nêu trên.

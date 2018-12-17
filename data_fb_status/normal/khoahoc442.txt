@@ -1,0 +1,14 @@
+Việt Nam nghiên cứu dự báo lũ theo thời gian thực
+Hệ thống công nghệ đo hiện tại và khôi phục dữ liệu dòng chảy trong quá khứ lưu vực sông Đà, sông Thao.
+Phòng thí nghiệm trọng điểm Quốc gia về động lực học sông biển phối hợp với Đại học California Davis đang triển khaidự án "Tiếp thu công nghệ tính toán mưa, lũ lớn cho các lưu vực sông liên quốc gia trong điều kiện hạn chế hoặc không có dữ liệu đo đạc".
+Công nghệ thuộc dự án này cho phép kiểm soát được dữ liệu có thể dự báo theo thời gian thực tình trạng thủy văn trước 12 giờ, 36 giờ, 48 giờ; trước mắtsẽ áp dụng thử nghiệm cho lưu vực sông Đà, Thao bao gồm cả phần lưu vực thuộc lãnh thổ Trung Quốc.
+Thông thường để tính toán, dự báo thiên tai, bão lũ, việc cung cấp số liệu đầu vào từ dòng chảy, lượng mưa... các lưu vực sông đều rất quan trọng nhưng đây là khó khăn của Việt Nam. Đối với lưu vực sông Đà, sông Thao do cóphần thuộc lãnh thổ Trung Quốc, trước đây Việt Nam không thể chủ động đo và quốc gia này cũng không chia sẻ dữ liệu.
+Với việctiếp thu công nghệ trên, các nhà khoa học có thể khôi phục lại toàn bộ dữ liệu cũtừ năm 1900 đến nay bao gồm mưa, dòng chảy. Các số liệu mới cũng được đo đạc để tính toán và đưa ra cảnh báo sớm.
+Nhìn vào số liệu, cơ quan chuyên môn sẽ tính toán để đưa ra cảnh báo mở cửa xả hồ chứa, đảm bảo an toàn đập, di dân để tránh thiệt hại về người và của. Trước đây việc quan trắc được thực hiện 15 ngày/lần.
+Bên cạnh việc đưa ra cảnh báo hiện tại, các nghiên cứu cũng phân tích dự báo diễn biến các đợt mưa, lũ lớn trong tương lai.
+Sau khi thử nghiệm trên lưu vực sông Đà, sông Thao, các nhà khoa học Việt Nam có nhiệm vụ tiếp thu và làm chủ công nghệ tính toán, mô phỏng mưa - lũ lớn cho các lưu sông khác liên quan quốc gia trong điều kiện hạn chế hoặc không có dữ liệu đo đạc.
+Dự án này có sự tham gia của GS M.Levent Kavvas, TS Ali Ercan, TS Trịnh Quang Toàn thuộc Đại học California Davis.
+Trong số này GS M.Levent Kavvaslà người có kinh nghiệm nghiên cứu về mô hình số hóa khí tượng và thủy văn kết hợp ở nhiều phạm vi từ lục địa đến lưu vực nhằm đánh giá tác động của khí tượng thủy văn, xây dựng hệ thống dự báo cảnh báo mưa lũ theo thời gian thực.
+CònTS Ali Ercan là người từng thực hiện công nghệ tính toán dự báo sự thay đổi của mực nước biển trong điều kiện tác động của biến đổi khí hậu trong thế kỷ 21. Công nghệ này đã được ứng dụng tốt cho dọc vùng ven biển của Malaysia và các khu vực phía bắc Sabah Sarawak trên đảo Borneo.
+TS Trịnh Quang Toàn là người Việt đang công tác tại Đại học California Davis, là chuyên gia về thiết lập tính toán mô phỏng hệ thống WEHY-HCM. Các nghiên cứu của TS Toàn tập trung mô phỏng tính toán hệ thống khí tượng thủy văn cho các lưu vực khác nhau.Ông cũng là người có kinh nghiệm trong nghiên cứu, tính toán sử dụng hệ thống khí tượng thủy văn, chuẩn hóa các dữ liệu khí tượng toàn cầu, số hóa các dữ liệu vật lý mặt đệm.
+Dự án sẽ hoàn thành vào năm 2019.

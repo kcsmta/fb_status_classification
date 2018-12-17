@@ -1,0 +1,7 @@
+Bé trai robot òa khóc đòi mẹ khi bị chích máu
+Con robot òa khóc nức nở như người thật và rên rỉ đòi mẹ khi bị nhân viên y tế lấy máu để làm xét nghiệm.
+HAL là một trong những robot y tế mới nhất được thiết kế để giúp sinh viên y khoa thực hành,Science Alerthôm qua đưa tin. Con robot có hình dáng giống một bé trai 5 tuổi, có thể trả lời một số câu hỏi, cử động mắt khi nhìn theo ngón tay, chảy máu và co giật. HAL được chế tạo bởi Gaumard Scientific, công ty Mỹ sản xuất bộ xương người tổng nhân tạo đầu tiên cho các trường y.
+Gaumard Scientific phát triển bé trai robot có thể mô phỏng nhiều vấn đề bệnh lý, chảy nước mắt và la hét đòi mẹ. Sử dụng HAL sẽ giúp các sinh viên học tập tốt hơn vì nó gần với chữa trị cho bệnh nhân thực thụ mà không cần nhờ tình nguyện viên.
+Các chức năng khác của HAL bao gồm chuyển sang trạng thái ngừng tim, sốc phản vệ, cho phép đo đường máu, nồng độ oxy trong máu và carbon dioxide. Đồng tử của con robot sẽ giãn ra khi có ánh sáng chiếu vào mắt.
+Để chuẩn bị cho những vết thương và chứng bệnh nặng, HAL có thể nối với máy móc thật ở bệnh viện và giật bằng máy khử rung tim. Khi tỉnh lại, con robot có thể biểu hiện những trạng thái cảm xúc cài sẵn như giận dữ, kinh ngạc, bối rối và lo lắng.
+Ý tưởng tạo ra HAL vừa thực tế trong việc giúp sinh viên học tập, vừa tránh cho họ không cảm thấy quá khó chịu khi phải rạch cổ họng nó để đặt ống thông khí quản. HAL là một trong số vài mẫu robot y tế đang được sử dụng, bên cạnh robot mô phỏng trẻ sinh non và robot sinh đẻ.

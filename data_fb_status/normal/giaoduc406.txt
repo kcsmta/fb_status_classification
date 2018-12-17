@@ -1,0 +1,4 @@
+Bài toán bóng đá sử dụng kiến thức lớp 9
+Bạn hãy nhớ lại những gì được học ở lớp 9 để áp dụng và giải bài toán về bóng đá dưới đây.
+Chiều rộng của sân bóng đá và của khung thành là AB = 64,44m và KT = 7,32 m.Một cầu thủ (điểm M) điều khiển bóng tấn công dọc theo đường biên phải (đường MB) và muốn sút bóng đi trúng khung thành KT.
+Hỏi để xác suất sút bóng đi trúng khung thành KT là lớn nhất (tức là khi góc KMT lớn nhất) thì độ dài đoạn thẳng MB và góc KMT là bao nhiêu?

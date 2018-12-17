@@ -1,0 +1,27 @@
+﻿ Software chiếm lại vị trí quan trọng thứ hai
+ZDNet đánh giá các dự án phần mềm, như ERP (enteprise resources planning) dành cho các công ty, hiện đang ở mức trung bình 25% năm nay có xu hướng giảm còn 21% trong 12 tháng tới. Tương tự như thế, các giải pháp phần mềm CRM (customer relation management) sẽ giảm trung bình còn 15% thay cho 19% năm trước. 
+Trong thời điểm hiện tại, các dự án mạng có dây và không dây, được người dùng quan tâm rất nhiều, chiếm bình quân 16% chi phí của 12 tháng vừa qua khi so sánh với cùng kỳ năm trước. Và các dự án mạng dự kiến có khả năng đạt 24% cho năm tới, đặc biệt các giải pháp VoIP sẽ chiếm hơn 1/4 của tổng gía trị. 
+Với việc nâng cấp phần cứng, máy chủ chiếm 47% và các dự án cho hệ thống lưu trữ chiếm 24% trong cùng thời gian 12 tháng qua. Nhìn về tương lai trong năm tới, các dự án về máy chủ sẻ giảm 4%, trong khi hệ thống lưu trữ sẽ không thay đổi tỉ lệ. 
+Trong công tác bảo mật mạng, đứng vị trí thứ 4, các chuẩn bị cho việc bảo vệ dịch vụ web chiếm 40% và có thể giảm còn 27% trong năm tới. Ngược lại, các giải pháp xác thực và mã hóa (authentication/encryption) sẻ tăng từ 15% hiện tại lên đến 23% trong năm tới. 
+Bảng dưới đây chỉ ra rằng thứ tự quan trọng trong các kế hoạch công nghệ IT 12 tháng vừa qua: 
+Loại dịch vụ/công nghệ 
+Tầm quan trọng hiện tại 
+Mạng có dây/không dây 
+1 
+Kiện trúc phần mềm 
+2 
+Nâng cấp phần cứng 
+3 
+Công nghệ WEB 
+4 
+Bảo mật 
+5 
+Quản trị IT 
+6 
+Nâng cấp Hệ Điều Hành 
+7 
+Quản trị dữ liệu 
+8 
+Tích hợp và phát triển ứng dụng 
+9 
+

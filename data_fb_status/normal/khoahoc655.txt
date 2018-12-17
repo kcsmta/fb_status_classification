@@ -1,0 +1,4 @@
+Robot nhện có thể tiến hành phẫu thuật trong tương lai
+Các nhà nghiên cứu chế tạo robot kích thước nhỏ từ vật liệu mềm có khả năng hoạt động trong cơ thể người.
+Các chuyên gia từ Đại học Harvard và Đại học Boston sử dụng phương pháp mới mang tên MORPH để chế tạo robot 8 chân kích thước nhỏ lấy cảm hứng từ nhện công Australia,Dezeenhôm 14/8 đưa tin. Họ ghép nối nhiều lớp cao su silicon để làm phần thân và đưa vật liệu chuyển pha vào bên trong để điều khiển hoạt động của robot.
+Phương pháp mới cho phép nhóm nghiên cứu làm việc với robot mềm ở mức chi tiết hơn nhiều so với trước đây. "MORPH có thể mở ra cánh cửa về robot mềm cho các nhà nghiên cứu chú trọng đến ứng dụng trong y học, lĩnh vực mà kích thước nhỏ và sự linh hoạt của loại robot này có khả năng mang đến những cách thực hiện nội soi và vi phẫu mới", kỹ sư sinh học Donald Ingber tại Viện nghiên cứu Wyss thuộc Đại học Harvard chia sẻ.

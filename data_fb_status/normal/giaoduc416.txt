@@ -1,0 +1,9 @@
+Bài toán chọn số từ nguyên lý Dirichlet
+Nguyên lý do nhà Toán học người Đức đưa ra được áp dụng phổ biến trong nhiều bài toán thi học sinh giỏi từ lớp 1 đến lớp 12.
+Nhà Toán học Đức Johann Peter Gustav Lejeune Dirichlet (1805-1859) đã đưa ra nguyên lý rất nổi tiếng với tên gọi “Nguyên lý chuồng bồ câu hay nguyên lý hộp (ngăn kéo) Dirichlet” có nội dung:
+“Nếu đưanvật thể vàomchuồng bồ câu vớin > m, thì luôn có ít nhất 1 chuồng bồ câu sẽ có nhiều hơn 1 vật thể.”
+Chẳng hạn nếu nhốt 10 con chim bồ câu vào 9 chuồng thì có ít nhất 1 chuồng chứa từ hai con bồ câu trở lên.
+Nguyên lý Dirichlet được áp dụng rất phổ biến trong nhiều bài toán thi học sinh giỏi từ lớp 1 cho đến lớp 12. Sau đây là bài toán số học đã xuất hiện trong kỳ thi IMAS 2016 và dự tuyển IMSO 2017.
+Topic 5: Dirichlet's Principle
+Problem:Let A = {1; 3; 5; ...; 2015; 2017} be a set of the first 1009 positive odd numbers. At least how many numbers must be picked from the set such that among those selected, there always exists 2 numbers whose sum is 2468?
+Dịch đề:Cho tập hợp A = {1; 3; 5; ...; 2015; 2017} gồm 1009 số tự nhiên lẻ đầu tiên. Cần chọn ra ít nhất bao nhiêu số từ tập hợp trên sao cho trong các số đã chọn, luôn tồn tại 2 số mà tổng của chúng bằng 2468?

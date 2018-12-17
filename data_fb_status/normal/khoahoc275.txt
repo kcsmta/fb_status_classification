@@ -1,0 +1,11 @@
+Những công cụ dùng để đo sức mạnh bão nhiệt đới
+Để đo cường độ bão, các cơ quan khí tượng cần nhiều công cụ chuyên dụng như vệ tinh, radar, phao hay máy bay trinh sát.
+Khoảng thời gian từ tháng 8 tới tháng 9 hàng năm là đỉnh điểm xuất hiện các cơn bão nhiệt đới ở Bắc Đại Tây Dương và Bắc Thái Bình Dương. Để thu thập dữ liệu liên quan đến bão, các nhà khí tượng học phải cần đến nhiều thiết bị chuyên dụng. Dưới đây là những công cụ thường được các cơ quan khí tượng uy tín trên thế giới sử dụng để đo cường độ bão, theoSciencing.
+Năm 1973, nhà khí tượng học người Mỹ Vernon Dvorak đã phát triển một phương pháp ước lượng cường độ bão bằng cách so sánh hình ảnh vệ tinh với những đặc điểm vật lý của cơn bão. Phương pháp này đã trở thành cơ sở cho các mô hình dự báo bão trên thế giới.
+Ngày nay, vệ tinh khí tượng đóng vai trò không thể thiếu trong việc theo dõi và đo sức mạnh bão nhiệt đới. Các vệ tinh được trang bị máy ảnh và cảm biến hồng ngoại giúp chuyên gia thu thập dữ liệu bão từ không gian như phạm vi, cấu trúc mây hay sự khác biệt nhiệt độ trong các cơn bão.
+Máy bay trinh sát được sử dụng để đo tốc độ gió, áp suất khí quyển và kiểm tra bề mặt đại dương một cách trực quan. Chúng thường di chuyển ở độ cao khoảng 3.000 mét và tính toán tốc độ gió ở độ cao 10 mét so với mực nước biển nhờ các máy dò rơi tự do (dropsonde).
+Máy dò có gắn dù sẽ được thả vào trong cơn bão từ máy bay. Trong quá trình rơi, thiết bị có thể đo tốc độ gió, hướng gió, chiều cao cơn bão, nhiệt độ và áp suất không khí... nhờ được trang bị hệ thống cảm biến và bộ thu GPS.
+Radar và phao là những phương tiện hữu ích để theo dõi bão từ phía dưới. Radar thời tiết trên đất liền sẽ phát huy tác dụng khi bão cách bờ biển vài trăm kilomet, với khả năng đo tốc độ gió, vận tốc bão, nhiệt độ và áp suất khí quyển.
+Trong khi đó, phao thường là cấu trúc nhân tạo cuối cùng hoạt động trong vùng biển có bão. Chúng được gắn các thiết bị đo thời tiết, có thể thu thập dữ liệu liên quan đến tốc độ gió, hướng gió, áp suất không khí và nhiệt độ của nước.
+Thang bão Saffir-Simpson là thang phân loại bão được sử dụng phổ biến nhất trên thế giới. Theo đó, các cơn bão nhiệt đới được phân loại thành 5 cấp theo cường độ gió.
+Việt Nam hiện sử dụng Thang sức gió Beaufort để phân loại bão. Thang đo này ban đầu có 13 cấp (từ 0 tới 12) và được mở rộng thành 18 cấp (từ 0 tới 17) vào năm 1946.

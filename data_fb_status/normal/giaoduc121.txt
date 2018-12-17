@@ -1,0 +1,15 @@
+Đáp án bài toán tiếng Anh về đếm hình thang
+Bài toán không hề đơn giản, chỉ 1/10 số người tham gia giải bài toán đưa ra được đáp án đúng.
+Topic 9: Counting Trapezoids
+Problem:The figure comprises twelve equilateral triangles. Find the total number of trapeziums in the figure. Here we define a trapezium to be a 4-sided figure with exactly one pair of parallel sides.
+Dịch đề:Hình dưới đây được tạo nên bởi 12 tam giác đều. Tính tổng số hình thang trong hình nếu ta định nghĩa hình thang là một hình tứ giác có đúng một cặp cạnh song song.
+Lời giải:
+Có nhiều cách tiếp cận để giải bài toán, chẳng hạn đánh số từ 1 đến 12 cho 12 tam giác đều nhỏ nhất rồi thống kê thủ công. Cách giải sau đây là ngắn nhất.
+Đánh ký hiệu các điểm như hình vẽ. Do 6 đoạn thẳng AB; BC; CA; DE; EF; FD có vai trò như nhau nên ta sẽ đếm đại diện số hình thang có 1 cạnh đáy nằm trên đoạn thẳng DE. Để ý rằng có 5 hình thang thỏa mãn đó là: DHML; GEIM; GHIL; DEIL; DEJK.
+Từ đó suy ra tổng số hình thang là : 6 x 5 = 30 (hình)
+Solution:
+There are various approaches to this problem; for example, we can assign the numbers from 1 to 12 to the twelve smallest equilateral triangles and then count manually.
+This is the shortest solution to the problem:
+Mark the points as in the figure. Since segments AB; BC; CA; DE; EF; FD are of similar function, we only need to find the representative number of trapezoids that have one base on segment DE. There are 5 such trapezoids: DHML; GEIM; GHIL; DEIL; DEJK.
+Therefore, the total number of trapezoids is: 6 x 5 = 30 (trapezoids).
+Vocabulary:

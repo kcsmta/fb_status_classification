@@ -1,0 +1,25 @@
+Dân bản đói nghèo
+
+Bắc Kạn là tỉnh miền núi Đông Bắc, là nơi có nhiều đồng bào thiểu số sinh sống nhất. Mặc dù các phương tiện truyền thông nhà nước loan báo hầu hết đồng bào thiểu số đã được xóa đói giảm nghèo, đời sống tốt lên nhưng trên thực tế, sự lạc hậu và nghèo khổ của người thiểu số tại Bắc Kạn vẫn còn đó.
+Đường từ ngã ba thị tứ xã Phương Viên vào bản Nà Chúa chỉ khoảng 7km, nhưng đây lại hiện rõ khoảng cách quá lớn giữa đời sống hiện tại nơi thị tứ và cuộc sống lạc hậu của người dân trong bản. Sự vất vả, thiếu thốn, những mảnh đời nghèo khổ, lạc hậu hiện ra ngay trước mắt.
+Bà Thái, một người Tày ở bản Nà Chúa, xã Phương Viên, huyện Chợ Đồn cho chúng tôi biết:
+“Ở đây đa số làm ruộng hết. Không có ai làm kinh tế. Nuôi những con vật trâu bò lợn ít thôi để cải thiện kinh tế gia đình. Đa số là nghèo, người có chút dư dả rất hiếm.”
+Bà Lê, người Nùng ở Nà Chúa, Phương Viên, Chợ Đồn cũng trình bày:
+“Chẳng làm gì để có tiền. Có mỗi hột gạo là đủ ăn thôi. Còn tiền thì không có. Kiếm khó lắm”.
+Anh Kính, người  Nùng  ở địa phương này cũng cùng cảnh ngộ và bày tỏ mong muốn:
+“Như nông thôn ngoài thu nhập ruộng ra thì cũng chẳng có gì cả. Cũng muốn làm kinh tế nhưng vốn thì không có. Bây giờ cũng muốn nhà nước tạo điều kiện cho nông thôn vay vốn vậy.”
+Được biết, các hộ dân nghèo ở đây không có đất để trồng trọt, muốn chuyển sang chăn nuôi phải vay vốn, nhưng vì thiếu kiến thức và kỹ năng nên họ cũng thất bại.
+Bà Lĩnh, người Tày ở  Phương Viên, Chợ Đồn nói về điều này:
+“Vay vốn của ngân hàng hơn 30 triệu về làm chăn nuôi. Nuôi bò nuôi dê nhưng mà bị rủi ro nên cũng không khá lên được. Giờ mắc phải hộ nghèo mà nợ nần chồng chất”.
+Bà Thái, một người người Tày ở Nà Chúa, Phương Viên, Chợ Đồn thừa nhận:
+“Học tập mà học ít nên họ cũng thiếu kinh nghiệm làm.”
+Bản Nà Chúa thuộc xã Phương Viên, huyện Chợ Đồn, tỉnh Bắc Kạn, một bản làng của đồng bào Tày, Nùng và H’Mong, có vị trí nằm gần trung tâm huyện lị của bản; thế nhưng cả bản gần một trăm gia đình nhưng chỉ còn một vài gia đình có gạo đế nấu cơm trong mùa giáp hạt.
+Bà Lĩnh, người Tày, Phương Viên, Chợ Đồn nói về tình cảnh này:
+“Bữa nọ bữa kia thôi. Chủ yếu là rau rừng là nhiều thôi. Nhặt lung tung về làm ngày bữa này ngày bữa nọ thôi.”
+Mặc dù sống giữa núi rừng nhưng lại không còn đất để trồng trọt, rừng đã bị cấm khai thác, đồng bào chỉ biết làm ruộng và tìm xuống đồng bằng để làm thuê với giá rẻ mạt.
+Mong muốn cho trẻ con đi học là nhằm có thể giúp chúng đổi đời; và đây là mơ ước cháy bỏng của người dân Nà Chúa. Tuy nhiên phía trước vẫn là một tương lai mù mịt bởi nghèo khổ níu chân họ.
+(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+

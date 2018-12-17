@@ -1,0 +1,23 @@
+Vì sao tư vấn đề xuất Việt Nam chọn công nghệ tàu tốc độ cao Nhật Bản?
+Nếu sử dụng thiết kế Nhật Bản, chi phí hạ tầng đường sắt Bắc Nam là 19,8 tỷ USD, thấp hơn công nghệ Trung Quốc và châu Âu.
+Tại cuộc họp bàn về phương án công nghệ đường sắt tốc độ cao chiều 11/9, đại diện Tư vấn TEDI-TRICC-TEDISOUTH (đơn vị lập báo cáo khả thi) đã trình bày với Bộ Giao thông Vận tải 3 loại hình tàu cao tốc trên thế giới.
+Đầu tiên làtàu chạy trên raycó tốc độ ổn định 350 km mỗi giờ, khổ đường tiêu chuẩn 1.435 mm, có thể hoạt động trên tuyến đường mới hoặc nâng cấp từ tuyến cũ để vừa chạy tàu khách vừa chạy tàu hàng.
+Loại hình này được xây dựng từ năm 1964 tại Nhật Bản, đã được kiểm nghiệm an toàn và chi phí đầu tư thấp hơn so với hai công nghệ còn lại.
+Thứ hai,tàu điện chạy trên đệm từ trườngcó vận tốc tốc độ tối đa 580 km mỗi giờ (tàu Maglev), được nghiên cứu từ năm 1968 tại Mỹ. Tuy nhiên, sau một số sự cố về an toàn, hiện chỉ có 3 nước đang vận hành khai thác là Nhật Bản, Hàn Quốc và Trung Quốc.
+Nhật Bản đã thử nghiệm loại hình trên 17 năm và đang đầu tư xây dựng tuyến Tokyo tới Nagoya, dự kiến năm 2027 đưa vào khai thác. Suất đầu tư cho một km đường sắt Maglev khoảng 190-200 triệu USD, cao gấp 5-6 lần so với đường sắt chạy trên ray.
+Cuối cùng làtàu điện chạy trong ống Hyperloopcó tốc độ tối đa 1.200 km mỗi giờ, đang chạy thử nghiệm ở các Tiểu vương quốc Ả rập thống nhất (UAE) và Mỹ. Tàu chạy trong ống sẽ giảm tối đa sức cản nhờ đó tốc độ có thể nhanh hơn máy bay. Tuy nhiên, các nước đang trong quá trình thử nghiệm để đánh giá tính an toàn, mức độ tin cậy trong vận hành.
+Dựa trên sự vận hành ổn định của tàu chạy trên ray, tư vấn TEDI - TRICC - TEDIS và một số chuyên gia giao thông đã đề xuất loại hình tàu chạy trên ray cho tuyến đường sắt tốc độ cao Bắc Nam.
+Hai loại công nghệ của tàu điện chạy trên đường ray
+Đại diện tư vấn TEDI - TRICC - TEDIS cho hay, loại hình tàu điện chạy trên ray hiện có 2 công nghệ là động lực phân tán tại các toa và động lực tập trung tại đầu máy.
+Công nghệ động lực phân tán nghĩa là trong đoàn tàu có nhiều toa động lực. Ngược lại động lực tập trung sẽ chỉ có 2 toa động lực nằm ở hai đầu đoàn tàu.
+Công nghệ động lực phân tán cho phép giảm tải trọng trục của đoàn tàu. Tuy nhiên,  số lượng toa động lực nhiều nên chi phí ban đầu và duy tu bảo dưỡng cao hơn, các toa trên hệ thống sức kéo có độ ồn cao hơn. Loại hình này đã được ứng dụng tại Nhật Bản, Đài Loan, Trung Quốc.
+Hệ thống động lực tập trung có ưu điểm là các đơn vị cấp lực cho đoàn tàu (nguồn gây ồn) tách biệt với toa xe nên toa xe ít ồn, khối lượng bảo trì ít. Nhược điểm nằm ở chỗ tải trọng trục của thiết bị cung cấp lực cho đoàn tàu quá nặng. Do các đoàn tàu không dùng phanh điện nên bố phanh bị mòn nhanh. Loại hình này đã được áp dụng tại nhiều nước châu Âu như Pháp, Đức, Bỉ, Hà Lan...
+Ngoài công nghệ đoàn tàu, tàu tốc độ cao còn ứng dụng công nghệ thông tin tín hiệu với các loại hình khác nhau như: Mạch điện đường ray; vô tuyến điện...
+Tư vấn TEDI - TRICC - TEDIS kiến nghị Việt Nam chọn công nghệ động lực phân tán và tín hiệu điều khiển qua sóng vô tuyến.
+Đường sắt tốc độ cao có chi phí hạ tầng 19,8 tỷ USD theo thiết kế Nhật
+Tổng vốn đầu tư của dự án bao gồm chi phí mua sắm đoàn tàu và chi phí đầu tư hạ tầng. Trong đó, chi phí đoàn tàu chiếm khoảng 10% tổng mức đầu tư, nên việc mua sắm công nghệ không ảnh hưởng nhiều đến chi phí dự án.
+Tuy nhiên, sử dụng công nghệ khác nhau có ảnh hưởng lớn đến kết cấu hạ tầng. Theo tư vấn, đoàn tàu Nhật Bản có mức độ kín khít cao, thiết kế dạng khí động học sử dụng đoàn tàu mũi dài cho phép giảm tiết diện hầm, giảm cự ly giữa tim hai tuyến đường đôi, kéo theo giảm bề rộng nền đường.
+Theo nghiên cứu của tư vấn TEDI - TRICC - TEDIS, tàu Nhật Bản cần 12,1 m nền đường, trong khi tàu Pháp cần 12,3 m, tàu Trung Quốc cần 12,8 m. Nếu áp dụng theo công nghệ Nhật Bản thì có thể giảm chi phí xây dựng nền đường 5% so với châu Âu và 18% so với Trung Quốc.
+Tương tự, theo công nghệ Nhật Bản có thể giảm 10% chi phí xây dựng cầu cạn, giảm 30% xây dựng hầm so với các công nghệ khác.
+Tính toán sơ bộ, nếu sử dụng thiết kế Nhật Bản thì hạ tầng tuyến đường sắt tốc độ cao Bắc Nam có chi phí là 19,8 tỷ USD; còn với công nghệ của Trung Quốc là 22,4 tỷ USD; công nghệ châu Âu là 21,1 tỷ USD.
+Theo báo cáo nghiên cứu khả thi giữa kỳ dự án đường sắt tốc độ cao Bắc Nam, tổng vốn đầu tư toàn dự án dự kiến là hơn 58 tỷ USD, trong đó hai đoạn Hà Nội - Vinh và Nha Trang - TP HCM được đầu tư trước, phân kỳ trong 10 năm (2020-2030) với tổng vốn hơn 24 tỷ USD.

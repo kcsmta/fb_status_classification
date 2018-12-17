@@ -1,0 +1,9 @@
+Đáp án bài toán xây dựng ví dụ
+Có nhiều cách xây dựng ví dụ, nhưng theo kiểu "ăn tham" với 4 số đầu là 1, 2, 4, 8, còn số cuối cùng lập từ các chữ số còn lại.
+Câu hỏi:
+Sử dụng các chữ số 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 mỗi số đúng 1 lần hãy viết ra 5 số khác 0 mà số sau chia hết cho số trước đó.
+Đáp án:
+Có nhiều cách xây dựng ví dụ, nhưng theo kiểu "ăn tham" với 4 số đầu là 1, 2, 4, 8, còn số cuối cùng lập từ các chữ số còn lại.
+Ta biết rằng một số sẽ chia hết cho nếu 3 chữ số cuối cùng tạo thành một số chia hết cho 8. Từ đó dễ dàng tìm được phương án cho số cuối cùng, chẳng hạn là 975360.
+Cũng có thể có các phương án khác như là: 9, 18, 36, 72, 504.
+TS Trần Nam Dũng

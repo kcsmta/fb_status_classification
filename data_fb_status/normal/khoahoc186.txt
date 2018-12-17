@@ -1,0 +1,21 @@
+Sản phẩm hữu cơ cũng có thể quét mã truy nguồn gốc
+Thông qua mã số mã vạch, doanh nghiệp có thể bảo vệ uy tín, còn người tiêu dùng yên tâm khi biết rõ nguồn gốc sản phẩm.
+Hiện bộ tiêu chuẩn Việt Nam (TCVN 11041:2017) về nông nghiệp hữu cơ được Bộ Khoa học và Công nghệ, Bộ Nông nghiệp và Phát triển nông thôn cùng các chuyên gia, hiệp hội phối hợp xây dựng và ban hành là tin vui cho cả phía sản xuất và người tiêu dùng.
+Để tiêu chuẩn phát huy hết giá trị đối với đơn vị công bố áp dụng thì việc kiểm soát thực hiện là đáng quan tâm.
+Ths Phan Hồng Nga, Trung tâm mã số mã vạch, Tổng cục Tiêu chuẩn, Đo lường, Chất lượng (TCĐLCL) cho rằng không khó để minh bạch chất lượng hàng hóa của doanh nghiệp. Giống như các sản phẩm hàng hóa khác, doanh nghiệp sản xuất thực phẩm hữu cơ khi đã áp dụng tiêu chuẩn có thể dán mã vạch để người tiêu dùng dễ dàng truy xuất nguồn gốc.
+Để thực hiện, doanh nghiệp chỉ cần truy cập vào địa chỉ của Tổ chức mã số mã vạch Việt Nam (GS1 Việt Nam) lấy biểu mẫu hướng dẫn. Sau khi kê khai bản cứng và nộp tiền theo quy định của Bộ Tài chính, doanh nghiệp có thể đăng ký trực tuyến trên trang www.vnpc.gs1.vn. Sau 5 ngày doanh nghiệp sẽ có mã để áp dụng.
+Ths Nga cho biết, GS1 Việt Nam chịu trách nhiệm cấp mã vạch, doanh nghiệp chỉ cần công bố thông tin liên quan đến sản phẩm gắn mã đó.
+Hiện mã số mã vạch ở Việt Nam được quản lý bởi Tổng cục TCĐLCL. Những thông tin trên mã số mã vạch được yêu cầu cung cấp như địa chỉ đơn vị sản xuất, các thuộc tính của hàng hóa.
+Ngoài ra khi doanh nghiệp công bố áp dụng theo từng tiêu chuẩn (tiêu chuẩn cơ sở, quốc gia, các chứng nhận của các tổ chức liên quan) đều được kiểm soát theo các tổ chức này.
+Như với rau củ, quả sản xuất theo tiêu chuẩnVietGAP có nghĩa là Thực hành sản xuất nông nghiệp tốt ở Việt Nam, do Bộ Nông nghiệp và Phát triển nông thôn ban hành đối với từng sản phẩm, nhóm sản phẩm thủy sản, trồng trọt, chăn nuôi. Doanh nghiệp đăng ký sản xuất theo tiêu chuẩn này sẽ phải thực hiện đúng các quy định.
+"Các tổ chức chứng nhận sẽ phải đến tận nơi kiểm tra xem doanh nghiệp đã làm đúng các tiêu chuẩn đăng ký hay chưa. Với doanh nghiệp phát hiện sai phạm sẽ có cảnh báo hoặc bị rút lại chứng nhận", bà Nga cho biết.
+Phần mềm hỗ trợ người tiêu dùng
+Để hỗ trợ người tiêu dùng có thông tin về chất lượng, doanh nghiệp bảo vệ thương hiệu sản phẩm, trước đó Tổng cục TCĐLCL đưa vào vận hành phần mềm quét mã số mã vạch trên điện thoại di động mang tên Scan and Check.
+Đây là phần mềm miễn phí trên điện thoại di động có thể sử dụng với hệ điều hành Android và IOS, giúp người tiêu dùng quét để kiểm tra tính hợp pháp của mã số mã vạch và thông tin chính hãng về xuất xứ, về các thuộc tính của hàng hoá gắn trên mã vạch công bố.
+Phần mềm này sẽ giúp người tiêu dùng có được thông tin chính thống về doanh nghiệp chủ thương hiệu và thông tin về sản phẩm hàng hóa do chính nhà sản xuất kê khai.
+Hiện ở Việt Nam có 10.000 doanh nghiệp được cấp mã số mã vạch đang hoạt động, tuy nhiên có rất ít doanh nghiệp và hợp tác xã sản xuất nông nghiệp hữu cơ đăng ký.
+Bộ tiêu chuẩn Việt Nam (TCVN) về nông nghiệp hữu cơ được Bộ Khoa học và Công nghệ ban hành có hiệu lực từ 29/12/2017 gồm 4 phần:
+Phần 1: Yêu cầu chung đối với sản xuất, chế biến, ghi nhãn sản phẩm nông nghiệp hữu cơ.
+Phần 2: Trồng trọt hữu cơ.
+Phần 3: Chăn nuôi hữu cơ.
+Phần 4: Yêu cầu đối với tổ chức đánh giá, chứng nhận hệ thống sản xuất và chế biến sản phẩm hữu cơ.

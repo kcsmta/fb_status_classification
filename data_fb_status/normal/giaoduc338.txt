@@ -1,0 +1,19 @@
+Đáp án bài toán chọn số từ nguyên lý Dirichlet
+Có một vài bạn tìm ra đáp án nhưng cách giải quá dài. Đây đúng là bài toán khó không chỉ đối với học sinh lớp 6.
+Dưới đây là lời giải của Thầy giáo Nguyễn Đức Tấn (TPHCM) và bản dịch của bạn Hoàng Nguyễn Minh Phương.
+Topic 5: Dirichlet's Principle
+Problem:Let A = {1; 3; 5; ...; 2015; 2017} be a set of the first 1009 positive odd numbers. At least how many numbers must be picked out of the set such that among those selected, there always exists 2 numbers whose sum is 2468?
+Dịch đề:Cho tập hợp A = {1; 3; 5; ...; 2015; 2017} gồm 1009 số tự nhiên lẻ đầu tiên. Cần chọn ra ít nhất bao nhiêu số từ tập hợp trên sao cho trong các số đã chọn, luôn tồn tại 2 số mà tổng của chúng bằng 2468?
+Lời giải:
+Xét các cặp số (a; b) trong tập A có tổng bằng 2468:
+(1235; 1233); (1237; 1231); ...; (2017; 451).
+Số các cặp số (a; b trong tập A có tổng bằng 2468 là: (2017 – 1235)/2 + 1 = 392.
+Số các số trong tập A mà không có số ghép đôi để tạo ra tổng bằng 2468 là:1009 – 2 x 392 = 225.
+Trường hợp xấu nhất, khi lấy 392 + 225 = 617 số gồm 392 số a hoặc số b trong cặp (a; b) và 225 số không có số ghép đôi thì sẽ không tồn tại một cặp nào để tổng bằng 2468. Theo nguyên lý Dirichlet, khi lấy 617 + 1 = 618 số sẽ luôn tồn tại 2 số có tổng bằng 2468.
+Solution:Consider all pairs of numbers (a; b) within set A whose sum is 2468:
+(1235; 1233); (1237; 1231); ...; (2017; 451).
+The number of such pairs (a; b) is: (2017 – 1235) : 2 + 1 = 392.
+The number of elements in A without a corresponding counterpart to form a sum of 2468 is: 1009 – 2 ´ 392 = 225.
+Therefore, the worst case is when we pick 392 + 225 = 617 numbers consisting of 392 numbers, each of which is either a or b, and 225 numbers, each of which is without a corresponding counterpart to form a sum of 2468.
+According to the Dirichlet Principle, by taking 617 + 1 = 618 numbers, there must exist two whose sum is 2468.
+The answer is 618.

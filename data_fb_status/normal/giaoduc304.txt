@@ -1,0 +1,7 @@
+Bài toán tiếng Anh về đếm hình vuông
+Từ hình cho sẵn, bạn có thể tìm được bao nhiêu hình vuông được tạo thành từ các đường lưới?
+Đếm số hình chữ nhật, hình vuông là dạng toán thường xuyên xuất hiện ở bậc tiểu học và THCS của nhiều quốc gia và nhiều kỳ thi Olympic Toán quốc tế.
+Bài toán nổi tiếng nhất của dạng này là đếm số hình vuông xuất hiện trong bàn cờ vua 8x8. Sau đây là bài toán đếm số hình vuông trong đề thi Toán học trẻ quốc tế năm 1999 (Internationnal Mathematics Competition 1999 - IMC 1999).
+Topic 6: Đếm hình vuông
+Problem: How many squares are formed by the the grid lines in the diagram below?
+Dịch đề: Có bao nhiêu hình vuông tạo bởi các đường lưới trong hình sau?

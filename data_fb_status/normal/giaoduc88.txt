@@ -1,0 +1,10 @@
+Bài toán đếm tam giác vuông của học sinh lớp 6
+Yêu cầu tìm số tam giác vuông được tạo ra từ một lưới ô vuông thách thức cả người lớn.
+Bài toán đếm tam giác vuông do Việt Nam đề nghị được chọn làm đề thi Olympic Toán và Khoa học Quốc tế lần thứ 14, tổ chức tháng 11/2017 tại Đại học Quốc gia Singapore (IMSO 2017). Đây là bài toán khó của phần Essay (Tự luận) dành cho học sinh khối lớp 6.
+Topic 9: Counting Right Triangles
+Problem: The left figure below represents a grid of size 3 x 2 with 12 grid points.
+The right figure below represents several right triangles in the grid whose vertices are all grid points.
+How many right triangles are there in total whose vertices are all grid points?
+Dịch đề: Hình vẽ bên trái dưới đây là một lưới ô vuông kích thước 3 x 2 có 12 nút lưới.
+Từ 12 nút lưới có thể chọn 3 nút làm 3 đỉnh của một tam giác vuông. Hình vẽ bên phải minh họa một số loại tam giác vuông.
+Hỏi có bao nhiêu tam giác vuông có 3 đỉnh được lấy từ 12 nút lưới ô vuông?

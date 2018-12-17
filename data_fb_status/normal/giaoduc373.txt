@@ -1,0 +1,22 @@
+Tìm lỗi sai ở 10 hình trong một phút
+Mỗi hình dưới đây có một điểm không hợp lý. Bạn hãy thử tìm ra lỗi trong thời gian nhanh nhất.
+Hình 1: Ngày mưa
+>>Xem đáp án
+Hình 2: Thu hoạch dâu tây
+>>Xem đáp án
+Hình 3: Đi uống trà
+>>Xem đáp án
+Hình 4:Câu cá
+>>Xem đáp án
+Hình 5:Nguyên liệu món hầm
+>>Xem đáp án
+Hình 6:Ao vịt
+>>Xem đáp án
+Hình 7:Chụp ảnh tự sướng
+>>Xem đáp án
+Hình 8: Người làm việc tự do (freelancer)
+>>Xem đáp án
+Hình 9:Nhân viên công sở
+>>Xem đáp án
+Hình 10:Bàn bếp
+>>Xem đáp án
