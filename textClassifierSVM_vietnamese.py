@@ -88,6 +88,8 @@ def extract_BoW(corpus, labels, path_to_dict):
     print("Loading dictionary...")
     vectorizer = CountVectorizer(decode_error="replace",vocabulary=pickle.load(open(path_to_dict, "rb")))
     print ("Loading dictionary complete!!!")
+
+    print("Extracting BoW from data...")
     X = []
     y = []
     for i in range(len(corpus)):
